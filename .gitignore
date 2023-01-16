@@ -3,6 +3,4 @@ logs/
 main.log
 *.log
 blah/
-logs/dev.log
-blah/greeting.log
-.log
+
